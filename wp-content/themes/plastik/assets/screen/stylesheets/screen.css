@@ -1,0 +1,19 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+@font-face {
+  font-family: 'FRABK';
+  src: url("../../fonts/FRABK.eot");
+  src: url("../../fonts/FRABK.eot?#iefix") format("embedded-opentype"), url("../../fonts/FRABK.woff") format("woff"), url("../../fonts/FRABK.ttf") format("truetype"), url("../../fonts/FRABK.svg#FRABK") format("svg");
+}
+@font-face {
+  font-family: 'FRADMCN';
+  src: url("../../fonts/FRADMCN.eot");
+  src: url("../../fonts/FRADMCN.eot?#iefix") format("embedded-opentype"), url("../../fonts/FRADMCN.woff") format("woff"), url("../../fonts/FRADMCN.ttf") format("truetype"), url("../../fonts/FRADMCN.svg#FRADMCN") format("svg");
+}
+@font-face {
+  font-family: 'FRAMDCN';
+  src: url("../../fonts/FRAMDCN.eot");
+  src: url("../../fonts/FRAMDCN.eot?#iefix") format("embedded-opentype"), url("../../fonts/FRAMDCN.woff") format("woff"), url("../../fonts/FRAMDCN.ttf") format("truetype"), url("../../fonts/FRAMDCN.svg#FRAMDCN") format("svg");
+}
